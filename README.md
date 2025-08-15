@@ -7,7 +7,7 @@ A distributed, asynchronous RAG (Retrieval-Augmented Generation) system using Do
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Distributed_Async_RAG.git
+git clone https://github.com/PratikC07/Distributed_Async_RAG.git
 cd Distributed_Async_RAG
 ```
 
